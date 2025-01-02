@@ -18,7 +18,7 @@
 
 ## 🎥 **구현 영상**
 
-[👉 구현 영상 확인하기](#) *(링크를 추가하세요.)*
+[👉 구현 영상 확인하기](https://drive.google.com/file/d/1f7YDWjXt4LBmEKzsUb_Z0sFjQr-pN8ij/view?usp=drive_link))
 
 ---
 
