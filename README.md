@@ -37,11 +37,10 @@
 ## ⚙️ **구현 기능**
 
 ### 🖥️ **시작화면**
-- **에셋**: RPG Tiny Hero Duo PBR Polyart  
-- **컨트롤러**: Standard Asset – ThirdPersonUserControl.cs  
 
 ### 🦸 **캐릭터**
-- 기본 조작 및 이동 구현  
+- **에셋**: [RPG Tiny Hero Duo PBR Polyart](https://assetstore.unity.com/packages/3d/characters/humanoids/rpg-tiny-hero-duo-pbr-polyart-225148)
+- **컨트롤러**: Standard Asset – ThirdPersonUserControl.cs  
 
 ### 🗺️ **맵**
 - **스테이지1, 2**: [AurynSky – Forest](https://assetstore.unity.com/packages/3d/environments/forest-low-poly-toon-battle-arena-tower-defense-pack-100080)/[Desert](https://assetstore.unity.com/packages/3d/environments/desert-low-poly-toon-battle-arena-tower-defense-pack-124507)
