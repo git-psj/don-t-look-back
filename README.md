@@ -44,8 +44,8 @@
 - 기본 조작 및 이동 구현  
 
 ### 🗺️ **맵**
-- **스테이지1, 2**: AurynSky – Forest/Desert  
-- **스테이지3**: AurynSky – Winter Forest  
+- **스테이지1, 2**: [AurynSky – Forest](https://assetstore.unity.com/packages/3d/environments/forest-low-poly-toon-battle-arena-tower-defense-pack-100080)/[Desert](https://assetstore.unity.com/packages/3d/environments/desert-low-poly-toon-battle-arena-tower-defense-pack-124507)
+- **스테이지3**: [AurynSky – Winter Forest](https://assetstore.unity.com/packages/3d/environments/winter-forest-low-poly-toon-battle-arena-tower-defense-pack-150432)
 - **스테이지4, 5**: [AurynSky – Dungeon](https://assetstore.unity.com/packages/3d/environments/dungeons/dungeon-low-poly-toon-battle-arena-tower-defense-pack-109791)  
 
 ### 🖥️ **UI**
