@@ -46,7 +46,7 @@
 ### 🗺️ **맵**
 - **스테이지1, 2**: AurynSky – Forest/Desert  
 - **스테이지3**: AurynSky – Winter Forest  
-- **스테이지4, 5**: AurynSky – Dungeon  
+- **스테이지4, 5**: [AurynSky – Dungeon](https://assetstore.unity.com/packages/3d/environments/dungeons/dungeon-low-poly-toon-battle-arena-tower-defense-pack-109791)  
 
 ### 🖥️ **UI**
 - **에셋**: Stone UI  
@@ -56,7 +56,7 @@
 ## 🛠️ **보완점 및 후기**
 
 - **고재범**: 처음 도전한 게임 프로그래밍이었지만 다양한 시도를 통해 성장할 수 있었다.  
-- **박수진**: 오류로 인해 포기한 기능이 아쉽지만 방학 동안 추가 개발할 계획이다.  
+- **박수진**: 오류로 인해 포기한 기능이 아쉬워 추가 보완할 계획이다.
 - **김주범**: 시간이 부족해 시도하지 못한 기능들이 아쉽지만, 이번 경험을 바탕으로 더 나은 결과물을 만들 자신이 있다.  
 
 ---
